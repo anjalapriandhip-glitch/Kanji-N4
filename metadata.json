@@ -1,0 +1,6 @@
+{
+  "name": "JapanStudy",
+  "description": "Aplikasi belajar bahasa Jepang interaktif: kosakata JLPT N5, Hiragana, Katakana, flashcard interaktif, latihan kuis, dan audio pelafalan asli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
